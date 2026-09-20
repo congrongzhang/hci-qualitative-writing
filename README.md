@@ -12,6 +12,7 @@ The skill helps researchers connect qualitative evidence to an explicit argument
 - Theory engagement and conceptual change
 - Claim-evidence-contribution tracing
 - Anti-defensive, claim-forward academic prose
+- Author-confirmed punctuation, vocabulary, citation, and line-structure constraints
 - Qualitative evidence boundaries and negative cases
 - Reviewer-style and adversarial audits
 - CHI/CSCW/PACM venue-aware checks
@@ -50,7 +51,7 @@ Trace each theoretical claim to the supporting findings and flag unsupported lea
 
 ```text
 Use $hci-qualitative-writing to transform these Findings into a Discussion outline.
-Keep participant accounts, analytic interpretation, and theoretical claims distinct.
+Keep participant reports, analytic interpretation, and theoretical claims distinct.
 ```
 
 ```text
@@ -101,6 +102,8 @@ Missing facts are marked for verification. The skill does not invent citations, 
 4. Treat frequency, salience, theoretical importance, and deviance as distinct properties.
 5. Place limitations where they change interpretation, transfer, or validity.
 6. Verify live venue policies before submission.
+
+The package includes `scripts/check-writing-constraints.sh` for repeatable checks across Markdown, LaTeX, and text files.
 
 ## Attribution and license
 

@@ -21,7 +21,7 @@ Useful roles include empirical baseline, conceptual tool, methodological warrant
 Develop the Related Work argument through this sequence:
 
 1. Establish the conversation the paper enters.
-2. Explain the strongest available account of the phenomenon.
+2. Explain the strongest available explanation of the phenomenon.
 3. Identify the unresolved relation, process, condition, actor, or level of analysis.
 4. Show why resolving it matters to HCI understanding or practice.
 5. State how the study's data and analysis can address that problem.
@@ -51,6 +51,6 @@ When combining HCI, CSCW, organisational studies, STS, information systems, or h
 
 ## Verification boundary
 
-Use original texts for load-bearing claims and quotations. Mark remembered, secondary, or unverified accounts with `[VERIFY]`. Do not attribute a position to an author from memory.
+Use original texts for load-bearing claims and quotations. Mark remembered, secondary, or unverified descriptions with `[VERIFY]`. Do not attribute a position to an author from memory.
 
 Use [literature-dialogue-map.md](../assets/literature-dialogue-map.md) to maintain the synthesis.

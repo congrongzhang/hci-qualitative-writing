@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented here.
 
-## 1.0.0 — 2026-09-20
+## 1.1.0 - 2026-09-20
+
+- Added author-confirmed constraints for punctuation, contrastive syntax, copy-ready line structure, citation placement, claim-forward prose, and prohibited vocabulary.
+- Added a reusable writing-constraint scanner for Markdown, LaTeX, and text files.
+- Updated skill guidance to use compliant terminology and to preserve protected quotations and source metadata.
+
+## 1.0.0 - 2026-09-20
 
 - Added contribution framing, argument architecture, and Findings-to-Discussion workflows.
 - Added theory engagement and qualitative evidence-boundary guidance.

@@ -1,6 +1,6 @@
 ---
 name: hci-qualitative-writing
-description: Develop, revise, and stress-test qualitative HCI manuscripts for CHI-, CSCW-, and PACM-style publication. Use for contribution framing, argument architecture, Findings-to-Discussion development, theory engagement, evidence calibration, voice-preserving revision, adversarial review, promise-delivery checks, reviewer-response workflows, bilingual writing, AI-use disclosure, and venue readiness. Do not use as a substitute for primary-data analysis or source verification.
+description: Develop, revise, and stress-test qualitative HCI manuscripts for CHI-, CSCW-, and PACM-style publication. Use for contribution framing, argument architecture, Findings-to-Discussion development, theory engagement, evidence calibration, constraint-compliant prose, reviewer-style audits, revision workflows, and venue readiness. Do not use as a substitute for primary-data analysis or source verification.
 license: CC BY-NC 4.0; see LICENSE.md and ATTRIBUTION.md
 ---
 
@@ -17,7 +17,7 @@ Before drafting or revising, establish the smallest usable brief:
 - data and analysis actually completed;
 - current central claim and target contribution;
 - intended venue or audience, when known;
-- fixed terminology, word budget, and material the user does not want changed;
+- fixed terminology, word budget, author-confirmed writing constraints, and material the user does not want changed;
 - target readers, likely reviewer expertise, and authorial voice anchors.
 
 Label consequential statements as one of: confirmed project fact, empirical evidence, researcher interpretation, working hypothesis, recommendation, or item to verify. Never convert a proposal, expectation, or sensitising concept into a completed result.
@@ -36,12 +36,13 @@ Use the minimum relevant mode and read its reference:
 - **Calibrate claims to qualitative evidence:** read [qualitative-evidence-boundaries.md](references/qualitative-evidence-boundaries.md).
 - **Run a reviewer or venue audit:** read [reviewer-and-venue-audit.md](references/reviewer-and-venue-audit.md).
 - **Preserve or learn the author's voice and reader model:** read [voice-and-reader.md](references/voice-and-reader.md).
+- **Apply the author's general prose and citation constraints:** read [general-writing-constraints.md](references/general-writing-constraints.md).
 - **Run layered critique or adversarial review:** read [layered-and-adversarial-review.md](references/layered-and-adversarial-review.md).
 - **Develop new prose or unblock stalled writing:** read [collaborative-drafting.md](references/collaborative-drafting.md).
 - **Check promises, bilingual consistency, or AI-use disclosure:** read [submission-integrity.md](references/submission-integrity.md).
 - **Integrate supervisor, reviewer, or examination feedback:** read [revision-dossier-workflow.md](references/revision-dossier-workflow.md).
 
-For whole-paper work, load the contribution, literature, evidence, argument, theory, voice, layered-review, and venue references. Load drafting, submission, and revision-dossier guidance only when the requested task reaches those stages. Use the copy-ready worksheets in `assets/` when the task benefits from explicit tracking.
+For whole-paper work, load the contribution, literature, evidence, argument, theory, voice, writing-constraint, layered-review, and venue references. Load drafting, submission, and revision-dossier guidance only when the requested task reaches those stages. Use the copy-ready worksheets in `assets/` when the task benefits from explicit tracking.
 
 ## Diagnose from foundation to sentence
 
@@ -79,6 +80,12 @@ When revising user text, preserve deliberate terminology and the author's analyt
 
 For substantive revisions, offer a flagged comparison with the reason for each conceptual or structural change when that would help the researcher retain control. Provide a clean version immediately when the user requests direct rewriting. Never treat AI-generated prose as final author-approved text.
 
+## Apply author-confirmed writing constraints
+
+For manuscript drafting, revision, LaTeX, copy-ready text, and bilingual responses, read and follow [general-writing-constraints.md](references/general-writing-constraints.md). Treat these rules as hard output conditions. Preserve quoted evidence, publication titles, citation keys, bibliography fields, and directly quoted established terminology exactly.
+
+When working with manuscript files, run [check-writing-constraints.sh](scripts/check-writing-constraints.sh) before delivery. Inspect every match in context because quotations and protected source material remain exempt. Resolve prose violations and report any protected matches that remain.
+
 ## Write with a claim-forward posture
 
 Lead with the substantive point. Replace vague hedging with calibrated scope. State limitations once where they change interpretation, transfer, or validity. Remove apology-like framing, repeated disclaimers, inflated novelty, unsupported universals, and reflexive binary contrasts.
@@ -103,7 +110,7 @@ Batch feedback into three to five consequential items. Surface a foundation-leve
 
 ## Maintain qualitative integrity
 
-- Distinguish participant accounts from observed practices and researcher interpretation.
+- Distinguish participant reports from observed practices and researcher interpretation.
 - Preserve quotations exactly and contextualise who is speaking, under what conditions, and why the excerpt matters.
 - Describe analytic procedures and researcher positioning with enough detail for readers to assess the interpretation.
 - Treat frequency, salience, theoretical importance, and deviance as different properties.
@@ -120,7 +127,7 @@ Match the output to the task. A strong response commonly contains:
 - the main evidence or reasoning gaps;
 - confidence and scope notes for consequential claims;
 - unresolved decisions that require the researcher;
-- a bounded next step.
+- a focused next step.
 
 For audits, use Fatal, Major, Moderate, and Minor severity. Explain the consequence of each issue and provide a concrete revision strategy. Do not turn stylistic preferences into methodological defects.
 
@@ -144,4 +151,4 @@ Confirm that:
 - every promised contribution and question receives visible delivery;
 - all AI-supported drafting and revision work is logged at the granularity available and disclosed under the verified venue policy.
 
-See [ATTRIBUTION.md](ATTRIBUTION.md) and [LICENSE.md](LICENSE.md) for the adapted workflow's provenance and reuse terms.
+See [ATTRIBUTION.md](ATTRIBUTION.md) and [LICENSE.md](LICENSE.md) for the adapted workflow's source and reuse terms.

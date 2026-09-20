@@ -10,10 +10,10 @@ Check whether the paper stands as qualitative HCI research:
 
 - importance of the phenomenon and precision of the problem;
 - RQ, unit of analysis, sampling, data, and analytic fit;
-- distinction among participant account, observation, interpretation, and theory;
+- distinction among participant report, observation, interpretation, and theory;
 - conceptual coherence and explanatory value of theory;
 - ethics, positionality, reflexivity, and power relations;
-- originality, significance, and traceability of the HCI contribution.
+- originality, significance, and a visible evidence path for the HCI contribution.
 
 Foundation problems control the review. Pause sentence-level editing when the underlying claim, design, evidence, or contribution requires a decision.
 
@@ -81,7 +81,7 @@ Every challenge must include:
 - location or quoted claim;
 - review perspective and diagnostic layer;
 - specific concern;
-- consequence for validity, interpretation, contribution, or readability;
+- consequence for validity, interpretation, contribution, or clarity;
 - evidence from the manuscript or verified venue criteria;
 - confidence: high, medium, or low;
 - what would resolve or falsify the concern.

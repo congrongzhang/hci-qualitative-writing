@@ -10,8 +10,9 @@
 - 全文论证架构
 - Findings 到 Discussion 的转换
 - 理论对话与概念推进
-- claim–evidence–contribution 追踪
+- claim-evidence-contribution 追踪
 - 去防御性、claim-forward 的学术表达
+- 作者确认的标点、词汇、引文位置和源码行结构约束
 - 质性证据边界与负例处理
 - reviewer-style 与 adversarial audit
 - CHI、CSCW、PACM venue-aware 检查
@@ -90,6 +91,8 @@
 ├── ATTRIBUTION.md           # 来源与改编说明
 └── LICENSE.md               # 使用许可
 ```
+
+仓库提供 `scripts/check-writing-constraints.sh`，用于重复检查 Markdown、LaTeX 与文本文件。
 
 ## 来源与许可
 

@@ -13,16 +13,16 @@ Build the contribution through six linked statements:
 5. **HCI significance:** Which researchers, designers, practitioners, institutions, or affected groups can understand or act differently because of this knowledge?
 6. **Scope:** To which settings, actors, technologies, stages, and conditions does the contribution apply?
 
-A gap based only on an unstudied population, technology, or location needs an importance argument. Explain which assumption, mechanism, design practice, or theoretical account becomes visible through the case.
+A gap based only on an unstudied population, technology, or location needs an importance argument. Explain which assumption, mechanism, design practice, or theoretical explanation becomes visible through the case.
 
 ## Contribution forms for qualitative HCI
 
 Select the primary form first. Add secondary forms only when each has its own evidence chain.
 
-- **Empirical:** a new account of practices, experiences, relations, or sociotechnical arrangements.
+- **Empirical:** a new analysis of practices, experiences, relations, or sociotechnical arrangements.
 - **Explanatory:** a process or mechanism that explains how or why an outcome emerges.
 - **Conceptual:** a distinction, construct, model, or vocabulary that organises phenomena more productively.
-- **Theoretical:** a refinement, extension, qualification, integration, or challenge to an existing account.
+- **Theoretical:** a refinement, extension, qualification, integration, or challenge to an existing explanation.
 - **Methodological:** a reusable way to study, analyse, or evaluate an HCI phenomenon.
 - **Design:** transferable knowledge that guides artifacts, interactions, infrastructures, or design processes.
 - **Policy or governance:** evidence-grounded principles for allocation of authority, responsibility, oversight, or remedy.
@@ -32,12 +32,12 @@ Select the primary form first. Add secondary forms only when each has its own ev
 Choose a noun that matches what the paper actually delivers:
 
 - `finding` for an evidence-supported analytic result;
-- `insight` for an interpretation with bounded transfer value;
+- `insight` for an interpretation with stated transfer conditions;
 - `concept` for a defined analytic idea with demonstrated usefulness;
 - `typology` for systematic categories with clear dimensions and coverage logic;
 - `framework` for connected constructs and relations that organise analysis or action;
 - `model` for specified entities, relations, and dynamics with explanatory or predictive use;
-- `theory` for a coherent explanatory account with demonstrated reach beyond the immediate observations;
+- `theory` for a coherent explanation with demonstrated reach beyond the immediate observations;
 - `principle` or `guideline` for action-oriented knowledge grounded in findings and explicit values.
 
 Ask what a reader can do with the claimed artifact. Rename it when its structure or validation is thinner than the noun implies.
@@ -45,7 +45,7 @@ Ask what a reader can do with the claimed artifact. Rename it when its structure
 ## Stress tests
 
 - **Removal test:** If the setting name disappeared, would a substantive knowledge gain remain?
-- **Traceability test:** Can every contribution sentence point to Findings and supporting material?
+- **Evidence-path test:** Can every contribution sentence point to Findings and supporting material?
 - **Delta test:** Can the paper state what readers understood before and what they can understand after this study?
 - **Importance test:** Does the advance matter to a recognisable HCI conversation?
 - **Scope test:** Are transfer conditions explicit and grounded in case characteristics?
@@ -55,6 +55,6 @@ Ask what a reader can do with the claimed artifact. Rename it when its structure
 
 Use a compact structure:
 
-> Through [data/method] in [bounded setting], this study shows [central empirical or explanatory claim]. It contributes [conceptual/theoretical/design advance], which [specific value for an HCI conversation or practice].
+> Through [data/method] in [defined setting], this study shows [central empirical or explanatory claim]. It contributes [conceptual/theoretical/design advance], which [specific value for an HCI conversation or practice].
 
 Treat this as a reasoning scaffold. Adapt the syntax to the paper's voice.

@@ -6,11 +6,11 @@ Use this guide to calibrate language, protect participant meaning, and keep inte
 
 Distinguish these states in notes and prose:
 
-1. **Participant account:** what a participant said, recalled, believed, or reported.
+1. **Participant report:** what a participant said, recalled, believed, or reported.
 2. **Observed or documented event:** what the researcher directly observed or what a source records.
 3. **Within-case interpretation:** the researcher's explanation of material from one case.
 4. **Cross-case pattern:** a relationship established through comparison across cases or materials.
-5. **Theoretical extension:** an abstraction that connects the analysis to a wider scholarly account.
+5. **Theoretical extension:** an abstraction that connects the analysis to a wider scholarly explanation.
 6. **Practical implication:** an action-oriented inference derived from findings and explicit values.
 
 Do not silently move from one state to another. Use transitions that identify the analytic step.
@@ -19,7 +19,7 @@ Do not silently move from one state to another. Use transitions that identify th
 
 - Participant reports: `described`, `reported`, `recalled`, `perceived`, `interpreted`.
 - Observed patterns: `showed`, `documented`, `identified`, `traced`, `revealed`.
-- Bounded interpretations: `indicates`, `suggests`, `supports the interpretation`, `is consistent with`.
+- Scoped interpretations: `indicates`, `suggests`, `supports the interpretation`, `is consistent with`.
 - Conceptual advances: `distinguishes`, `refines`, `extends`, `qualifies`, `reframes`.
 
 Reserve causal verbs such as `caused`, `led to`, and `produced` for designs and evidence that establish the causal relation. Specify process evidence when using `enabled`, `constrained`, `shaped`, or `contributed to`.

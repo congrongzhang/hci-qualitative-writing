@@ -9,7 +9,9 @@ required_files=(
   "ATTRIBUTION.md"
   "LICENSE.md"
   "agents/openai.yaml"
+  "references/general-writing-constraints.md"
   "scripts/pending-markers.sh"
+  "scripts/check-writing-constraints.sh"
 )
 
 for path in "${required_files[@]}"; do
@@ -36,6 +38,7 @@ if [[ "$asset_count" -lt 5 ]]; then
 fi
 
 bash -n scripts/pending-markers.sh
+bash -n scripts/check-writing-constraints.sh
 bash -n scripts/validate-package.sh
 
 echo "Package validation passed: $reference_count references, $asset_count assets."

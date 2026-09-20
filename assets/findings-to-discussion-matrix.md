@@ -13,7 +13,7 @@ Allowed relationship labels: `confirms`, `differentiates`, `connects`, `refines`
 - The finding establishes:
 - This pattern arises through:
 - Prior work would lead readers to expect:
-- The present analysis changes that account by:
+- The present analysis changes that explanation by:
 - The resulting conceptual proposition is:
 - This matters to HCI because:
 - The implication applies where:

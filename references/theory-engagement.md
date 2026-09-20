@@ -42,12 +42,12 @@ If only the first sentence is substantive, the paper uses theory as a lens. Desc
 - Define adjacent terms and explain distinctions that affect analysis.
 - Preserve the level of analysis: individual experience, interaction, organisational practice, infrastructure, institution, or political economy.
 - Track whether a concept comes from participants, the researchers, or prior theory.
-- Test sensitising concepts against negative cases and rival accounts.
+- Test sensitising concepts against negative cases and rival explanations.
 - Verify original texts before attributing a claim to a theorist.
 
 ## Mid-range propositions
 
-Qualitative HCI papers often gain explanatory reach through bounded propositions. A useful proposition identifies:
+Qualitative HCI papers often gain explanatory reach through scoped propositions. A useful proposition identifies:
 
 - actors or entities;
 - a relationship or process;

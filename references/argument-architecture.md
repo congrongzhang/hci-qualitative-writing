@@ -26,7 +26,7 @@ Assign one main job to each section:
 - **Methods:** make the knowledge-production process assessable, including sampling, setting, data generation, analysis, positionality, ethics, and material constraints.
 - **Findings:** establish the patterns, relations, processes, mechanisms, and tensions that answer the RQ.
 - **Discussion:** explain what the Findings change in prior knowledge, theory, design, or governance.
-- **Conclusion:** consolidate the knowledge gain and its bounded significance.
+- **Conclusion:** consolidate the knowledge gain and its scoped significance.
 
 ## Findings sequence
 

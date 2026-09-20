@@ -4,7 +4,7 @@ Use this guide for promise-delivery checks, bilingual consistency, pending-item 
 
 ## Blind promise-delivery check
 
-Run this mode on a complete draft or clearly bounded complete section. Suspend quality judgment and author-context assumptions.
+Run this mode on a complete draft or clearly defined complete section. Suspend quality judgment and author-context assumptions.
 
 1. Extract explicit promises from the title, abstract, introduction, contribution statement, roadmap, and section openings.
 2. Record strong implicit promises only when a competent reader would reasonably expect delivery. Mark them as interpretive.

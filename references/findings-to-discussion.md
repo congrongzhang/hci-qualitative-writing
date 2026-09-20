@@ -29,7 +29,7 @@ Each Discussion subsection should make one principal move:
 - **Explain:** identify why the pattern arose and which sociotechnical conditions sustained it.
 - **Differentiate:** separate phenomena that prior work commonly groups together.
 - **Connect:** show how previously separate literatures illuminate one process.
-- **Refine:** specify conditions, actors, stages, or mechanisms absent from an existing account.
+- **Refine:** specify conditions, actors, stages, or mechanisms absent from an existing explanation.
 - **Extend:** demonstrate that an established concept operates in a new way or at a new level.
 - **Qualify:** establish a boundary, exception, or contingency that changes the reach of a prior claim.
 - **Challenge:** present evidence that conflicts with a core expectation and explain the consequence.
@@ -53,5 +53,5 @@ For every implication, state:
 - Does the Discussion contain an idea that cannot be obtained by summarising Findings?
 - Does each theoretical move cite the exact empirical pattern that motivates it?
 - Are alternative interpretations considered where they would change the conclusion?
-- Do implications follow from the analysis and account for power, responsibility, access, and possible harms?
+- Do implications follow from the analysis and address power, responsibility, access, and possible harms?
 - Does the section explain why this case matters beyond its location while preserving transfer conditions?

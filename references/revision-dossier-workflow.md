@@ -26,7 +26,7 @@ Use [revision-dossier.md](../assets/revision-dossier.md) for complex comments an
 Classify the response:
 
 - **Accept:** the concern is valid and requires a manuscript change.
-- **Partially accept:** a bounded change addresses the valid portion while preserving a supported choice.
+- **Partially accept:** a focused change addresses the valid portion while preserving a supported choice.
 - **Defend:** the current choice is supported; prepare an evidence-based explanation.
 - **Apparent misreading:** re-read the manuscript to determine whether ambiguity enabled the interpretation. Add clarification when the text permits the reading.
 
