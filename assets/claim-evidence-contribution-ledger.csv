@@ -1,0 +1,5 @@
+claim_id,exact_claim,claim_level,evidence_state,source_cases_or_materials,analytic_operation,variation_or_negative_case,rival_explanation,contribution_supported,scope_or_transfer_condition,confidence,remaining_gap,action,owner
+C1,,finding,,,,,,,,,,review,
+C2,,cross-case interpretation,,,,,,,,,,review,
+C3,,theoretical extension,,,,,,,,,,review,
+C4,,design or governance implication,,,,,,,,,,review,

@@ -1,0 +1,4 @@
+interface:
+  display_name: "HCI Qualitative Writing"
+  short_description: "Develop and stress-test qualitative HCI papers"
+  default_prompt: "Use $hci-qualitative-writing to strengthen this qualitative HCI paper while preserving my voice and evidence boundaries."

@@ -1,0 +1,4 @@
+dossier_id,source,reviewer_comment_verbatim,underlying_concern,triage,priority,dependencies,manuscript_change_or_defence,change_location,evidence_added,response_draft,verification,re_review_verdict,status,owner
+R1,,,,accept,P0,,,,,,,,pending,
+R2,,,,partially accept,P1,,,,,,,,pending,
+R3,,,,defend,P1,,,,,,,,pending,

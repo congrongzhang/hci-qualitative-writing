@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/
+.venv/
+
+# Local working artifacts created while using the skill
+_drafts/
+_feedback/
+_meta/
+_writing-config/
