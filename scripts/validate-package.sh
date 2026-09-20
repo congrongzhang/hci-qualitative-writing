@@ -5,6 +5,7 @@ required_files=(
   "SKILL.md"
   "README.md"
   "README.zh.md"
+  "CONTRIBUTORS.md"
   "ATTRIBUTION.md"
   "LICENSE.md"
   "agents/openai.yaml"

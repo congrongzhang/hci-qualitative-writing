@@ -88,6 +88,7 @@ Missing facts are marked for verification. The skill does not invent citations, 
 ├── references/              # Focused HCI writing workflows
 ├── assets/                  # Reusable ledgers, matrices, and checklists
 ├── scripts/                 # Lightweight manuscript checks
+├── CONTRIBUTORS.md          # Human and AI-assisted contributions
 ├── ATTRIBUTION.md           # Source and adaptation notice
 └── LICENSE.md               # Reuse terms
 ```
@@ -114,3 +115,5 @@ The package is available for noncommercial reuse under [CC BY-NC 4.0](LICENSE.md
 ## Contributing
 
 Issues and focused pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+Contributor roles, including AI-assisted development by OpenAI Codex, are recorded in [CONTRIBUTORS.md](CONTRIBUTORS.md).

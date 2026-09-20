@@ -86,6 +86,7 @@
 ├── references/              # HCI 写作专项工作流
 ├── assets/                  # 可复用 ledger、matrix 与 checklist
 ├── scripts/                 # 轻量级稿件检查
+├── CONTRIBUTORS.md          # 人类与 AI 辅助贡献记录
 ├── ATTRIBUTION.md           # 来源与改编说明
 └── LICENSE.md               # 使用许可
 ```
@@ -103,3 +104,5 @@
 ## 参与贡献
 
 欢迎提交聚焦明确的 issue 与 pull request。请先阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
+贡献者角色与 OpenAI Codex 的 AI 辅助开发记录见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。
