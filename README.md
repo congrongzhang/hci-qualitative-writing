@@ -102,10 +102,6 @@ Missing facts are marked for verification. The skill does not invent citations, 
 5. Place limitations where they change interpretation, transfer, or validity.
 6. Verify live venue policies before submission.
 
-## Privacy
-
-This repository contains the reusable skill package only. It excludes manuscripts, participant data, project sources, and private PhD materials.
-
 ## Attribution and license
 
 This package adapts workflow ideas from [Humanities Writing Companion](https://github.com/tizzy916/humanities-writing-companion), licensed under CC BY-NC 4.0. See [ATTRIBUTION.md](ATTRIBUTION.md) for the adaptation record.

@@ -13,11 +13,10 @@ Thank you for helping improve HCI Qualitative Writing.
 ## Before opening a pull request
 
 1. Keep the skill general enough to reuse across qualitative HCI projects.
-2. Exclude manuscripts, participant data, confidential reviews, and identifiable research records.
-3. Preserve the distinction among empirical evidence, researcher interpretation, theory, and recommendation.
-4. Avoid fabricated citations, venue policies, quotations, or methodological details.
-5. Update `ATTRIBUTION.md` when adapting a new external source.
-6. Run `bash scripts/validate-package.sh` from the repository root.
+2. Preserve the distinction among empirical evidence, researcher interpretation, theory, and recommendation.
+3. Avoid fabricated citations, venue policies, quotations, or methodological details.
+4. Update `ATTRIBUTION.md` when adapting a new external source.
+5. Run `bash scripts/validate-package.sh` from the repository root.
 
 ## Pull request scope
 

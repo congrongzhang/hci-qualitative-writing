@@ -91,10 +91,6 @@
 └── LICENSE.md               # 使用许可
 ```
 
-## 隐私边界
-
-本仓库只包含可复用的 skill 包。论文原稿、参与者数据、项目 sources 和私有 PhD 材料均未包含。
-
 ## 来源与许可
 
 本项目改编了 [Humanities Writing Companion](https://github.com/tizzy916/humanities-writing-companion) 的部分工作流理念。详细改编记录见 [ATTRIBUTION.md](ATTRIBUTION.md)。
