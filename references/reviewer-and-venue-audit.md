@@ -8,6 +8,8 @@ Use [layered-and-adversarial-review.md](layered-and-adversarial-review.md) for d
 
 Keep each reviewer perspective distinct in working notes. Synthesis should identify where several perspectives converge on one root problem and where they disagree because they value different contribution forms or evidence standards.
 
+Begin with the communication brief: target reader, primary question, main message, desired response, and reader evaluation criteria. Review the manuscript as an imagined conversation with that reader.
+
 ## Severity
 
 - **Fatal:** the current data or design cannot support the central claim, or a submission-policy violation makes the manuscript ineligible.
@@ -25,6 +27,7 @@ For every issue, provide the location, consequence, evidence for the judgment, a
 4. Separate eligibility rules from quality criteria and strategic fit.
 5. Map the manuscript's contribution and methods to the language used by the target community.
 6. Mark changing details such as dates, length limits, templates, fees, and disclosure policies as `[VERIFY]` until checked for the current cycle.
+7. Reverse-outline section and paragraph questions to locate background without purpose, unanswered promises, and broken reasoning order.
 
 ## CHI-oriented checks
 
@@ -38,6 +41,8 @@ Use the current official pages, including:
 Confirm the current-year equivalents. Check that the paper states an original HCI contribution, matches an explicit contribution form, gives enough qualitative transparency to assess the work, selects an appropriate subcommittee, stands on its main submission file, and uses a length proportionate to the contribution.
 
 For qualitative work, examine transparency around conceptual basis, participant or site selection, data collection, analysis, positionality, ethics, the construction of themes, the status of exceptional instances and broader patterns, and constraints on sharing materials.
+
+Check whether the literature gap emerges across a relevant source set, survives its strongest counterargument, and matches the material the study actually has. Check whether section headings, Findings displays, and Discussion moves make their questions and answers visible to the assigned reviewer community.
 
 ## CSCW-oriented checks
 
@@ -58,5 +63,6 @@ End the audit with:
 - revision order based on dependency;
 - items requiring author decision or source verification;
 - current-cycle administrative checklist.
+- communication risks caused by tacit premises, weak question order, or high noise.
 
 When responding to completed reviews, switch to [revision-dossier-workflow.md](revision-dossier-workflow.md) and use the [review response matrix](../assets/review-response-matrix.csv).

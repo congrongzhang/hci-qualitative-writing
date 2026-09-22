@@ -52,6 +52,10 @@ Specify the primary reader and any secondary reader. For each, record:
 - concepts that require definition;
 - assumptions they may contest;
 - likely misreadings of the paper's scope, method, or contribution;
+- questions they need answered and the order in which they need them;
+- the judgment or action the paper should enable;
+- criteria they will use to assess the research response;
+- information they need repeated at the point of interpretation;
 - vocabulary and framing that signal fit with the community.
 
 For CHI or CSCW, map the reader to the actual subcommittee, track, research paradigm, and current review criteria when available.
@@ -66,5 +70,7 @@ Before returning revised prose, check:
 4. Does every change improve accuracy, logic, audience access, or style consistency?
 5. Can the intended reader follow the tacit premises and evidence steps?
 6. Has adaptation to the reader changed the claim's meaning or strength?
+7. Do headings and paragraph openings help the reader identify the question and message without flattening the author's rhythm?
+8. Does the draft remove detail that distracts this reader while preserving evidence needed for assessment?
 
 If a clean rewrite would erase a meaningful voice feature, provide a lighter revision and explain the choice.

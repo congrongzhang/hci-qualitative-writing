@@ -14,6 +14,7 @@ Check whether the paper stands as qualitative HCI research:
 - conceptual coherence and explanatory value of theory;
 - ethics, positionality, reflexivity, and power relations;
 - originality, significance, and a visible evidence path for the HCI contribution.
+- the target reader's reason to care and the evaluation criteria used to judge the response.
 
 Foundation problems control the review. Pause sentence-level editing when the underlying claim, design, evidence, or contribution requires a decision.
 
@@ -22,19 +23,22 @@ Foundation problems control the review. Pause sentence-level editing when the un
 Check:
 
 - cumulative progression from problem to contribution;
+- hierarchy and logical order of target-reader questions;
 - section function and ordering;
 - relation among Findings themes;
 - balance of empirical material and interpretation;
 - transition from Findings to Discussion;
 - delivery of promises made in the abstract and introduction;
 - consistency among title, abstract, contribution statement, and conclusion.
+- headings that identify purpose, question, or supported message;
+- balance between necessary explanation and distracting detail.
 
 ### 3. Paragraph reasoning
 
 Check:
 
 - the paragraph's job in the section;
-- claim, evidence, interpretation, and link;
+- point, evidence, explanation, and link;
 - conceptual drift or unmarked movement between evidence states;
 - quotation context and analytic follow-through;
 - relation to preceding and following paragraphs;
@@ -50,6 +54,7 @@ Check:
 - citation integration;
 - defensive framing, generic transitions, and formulaic AI prose;
 - fit with the author's voice profile.
+- early visibility of the sentence's subject, action, and relation to the reader's question.
 
 ## Adversarial intensity
 
@@ -85,6 +90,8 @@ Every challenge must include:
 - evidence from the manuscript or verified venue criteria;
 - confidence: high, medium, or low;
 - what would resolve or falsify the concern.
+
+When criticising a literature gap, identify the supporting sources, repeated explanatory failure, strongest counterargument, and the present study's data fit. Treat a one-source gap as provisional.
 
 Mark speculative challenges as questions. Remove challenges that cannot be anchored.
 

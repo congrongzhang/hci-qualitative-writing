@@ -13,11 +13,21 @@ Establish:
 5. the sequence of reasoning;
 6. its connection to preceding and following sections.
 
+Add the target reader's likely follow-up question after each proposed point. A strong sequence answers one question and creates the need for the next. Build the first outline as a question hierarchy when the section contains several explanatory branches.
+
 For Findings, build from analysed material and the claim-evidence ledger. For Discussion, build from established Findings and the theory-engagement map. Do not draft around evidence that has not been supplied or verified.
 
 ## Paragraph-level outline
 
 Before extended drafting, write one sentence per proposed paragraph stating its argumentative job. Test whether the sequence accumulates toward the section conclusion. Remove duplicate jobs and identify unsupported steps.
+
+For an existing draft, create a reverse outline with the actual question, point, evidence, explanation, and link of each paragraph. Use [audience-question-outline.md](../assets/audience-question-outline.md). Revise the reasoning order before polishing sentences.
+
+## AI as a second reader
+
+Use AI-generated question trees, outlines, hooks, or review comments as proposals. Evaluate each proposal against the author's aim, target reader, word budget, evidence, and contribution. Keep the author responsible for order, emphasis, and final selection.
+
+When the researcher wants coaching, ask one focused follow-up question at a time. Move from the research motivation and objective into methods, evidence, warrants, consequences, and boundaries. Give examples or candidate solutions when requested or when the user asks for a direct draft.
 
 ## Speak-first drafting
 
@@ -51,6 +61,10 @@ After adding material, check:
 - the introduction and roadmap still match the paper;
 - the contribution statement reflects the revised argument;
 - quotations, references, and section numbers remain consistent.
+- headings reveal the section's question, purpose, or supported answer;
+- key terms recur clearly enough to connect sentences and sections;
+- necessary repetition supports interpretation at the point of use;
+- background, jargon, and detail that do not advance a reader question have been removed.
 
 ## Writing bottlenecks
 

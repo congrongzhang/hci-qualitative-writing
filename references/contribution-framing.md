@@ -15,6 +15,20 @@ Build the contribution through six linked statements:
 
 A gap based only on an unstudied population, technology, or location needs an importance argument. Explain which assumption, mechanism, design practice, or theoretical explanation becomes visible through the case.
 
+## Need, response, and value
+
+Build the framing as a reasoning chain:
+
+1. **Motivating need:** the consequential phenomenon and why the target HCI reader should care.
+2. **Current explanation or response:** what the field currently knows or does.
+3. **Specific explanatory or practical deficiency:** the repeated failure, omitted step, unresolved conflict, or harmful consequence.
+4. **Research response:** the RQ, material, and analytic approach that address the deficiency.
+5. **Value of the response:** the understanding, decision, design, or governance practice the study improves.
+
+Identifying a gap supplies part of the rationale. The framing must also show why resolving that gap changes something that matters to the intended reader.
+
+Record the evaluation criteria used by affected groups, practitioners, designers, institutions, and reviewers. Criteria can include interpretive reach, fairness, safety, cost, access, practical fit, responsibility, or respect for participant priorities. Select criteria from the study context and evidence. Never add generic criteria to make the contribution sound broader.
+
 ## Contribution forms for qualitative HCI
 
 Select the primary form first. Add secondary forms only when each has its own evidence chain.
@@ -50,6 +64,8 @@ Ask what a reader can do with the claimed artifact. Rename it when its structure
 - **Importance test:** Does the advance matter to a recognisable HCI conversation?
 - **Scope test:** Are transfer conditions explicit and grounded in case characteristics?
 - **Compression test:** Can the primary contribution be stated in one sentence without a list of activities?
+- **Reader-question test:** Does the contribution answer a question the target HCI reader has reason to ask?
+- **Evaluation-criteria test:** Does the paper show how the advance fares against the criteria relevant actors use?
 
 ## Recommended contribution statement
 
@@ -58,3 +74,5 @@ Use a compact structure:
 > Through [data/method] in [defined setting], this study shows [central empirical or explanatory claim]. It contributes [conceptual/theoretical/design advance], which [specific value for an HCI conversation or practice].
 
 Treat this as a reasoning scaffold. Adapt the syntax to the paper's voice.
+
+For a plain-language headline, state the consequential goal, the specific response, and the route used to pursue it. Put the reader-relevant goal early. Keep this headline consistent with the narrower manuscript contribution.

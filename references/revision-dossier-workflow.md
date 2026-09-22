@@ -42,6 +42,8 @@ Set priority by downstream impact:
 
 Execute foundation and architecture dossiers before local edits. Group linked comments by section or analytical problem so terminology, evidence, and cross-references remain coherent.
 
+When a revision changes the paper's story, update the communication brief, focus-question hierarchy, section headings, abstract, introduction, contribution statement, and conclusion as one dependency group.
+
 ## Definition of complete
 
 A dossier closes when:
@@ -53,6 +55,7 @@ A dossier closes when:
 - response language accurately describes what changed;
 - the master index and dossier status agree;
 - a re-read confirms that the underlying concern is addressed.
+- a reverse outline confirms that the revised passage answers its intended reader question and preserves the link to adjacent sections.
 
 Generated revision prose alone does not close a dossier.
 

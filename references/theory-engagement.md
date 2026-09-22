@@ -26,6 +26,8 @@ For each central concept:
 5. Explain what the pattern confirms, differentiates, refines, extends, qualifies, or challenges.
 6. State the resulting conceptual proposition and its transfer boundary.
 
+Frame each theoretical move around a reader question: What does this concept let the paper explain, why does the explanation fit this material, and how does the material change the concept's reach or structure? State the evidence and warrant for each transition.
+
 ## Theory-change test
 
 Complete both sentences:
@@ -44,6 +46,7 @@ If only the first sentence is substantive, the paper uses theory as a lens. Desc
 - Track whether a concept comes from participants, the researchers, or prior theory.
 - Test sensitising concepts against negative cases and rival explanations.
 - Verify original texts before attributing a claim to a theorist.
+- Remove a concept when it adds vocabulary without changing a question, comparison, interpretation, or consequence.
 
 ## Mid-range propositions
 

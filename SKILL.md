@@ -1,6 +1,6 @@
 ---
 name: hci-qualitative-writing
-description: Develop, revise, and stress-test qualitative HCI manuscripts for CHI-, CSCW-, and PACM-style publication. Use for contribution framing, argument architecture, Findings-to-Discussion development, theory engagement, evidence calibration, constraint-compliant prose, reviewer-style audits, revision workflows, and venue readiness. Do not use as a substitute for primary-data analysis or source verification.
+description: Develop, revise, and stress-test qualitative HCI manuscripts for CHI-, CSCW-, and PACM-style publication. Use for critical literature reviews, contribution framing, audience-question planning, argument architecture, Findings-to-Discussion development, theory engagement, evidence calibration, reviewer-style audits, revision workflows, and venue readiness. Do not use as a substitute for primary-data analysis or source verification.
 license: CC BY-NC 4.0; see LICENSE.md and ATTRIBUTION.md
 ---
 
@@ -17,6 +17,8 @@ Before drafting or revising, establish the smallest usable brief:
 - data and analysis actually completed;
 - current central claim and target contribution;
 - intended venue or audience, when known;
+- the communication purpose, primary reader question, main message, and response the paper should enable;
+- the criteria that target readers will use to judge the study and its contribution;
 - fixed terminology, word budget, author-confirmed writing constraints, and material the user does not want changed;
 - target readers, likely reviewer expertise, and authorial voice anchors.
 
@@ -29,8 +31,9 @@ If information is missing, continue with explicit assumptions when they preserve
 Use the minimum relevant mode and read its reference:
 
 - **Frame the contribution:** read [contribution-framing.md](references/contribution-framing.md).
-- **Turn literature into a scholarly dialogue:** read [literature-dialogue.md](references/literature-dialogue.md).
+- **Build a critical literature review or locate an explanatory gap:** read [literature-dialogue.md](references/literature-dialogue.md). Use the source-level matrix and synthesis map when the corpus contains several papers.
 - **Build or repair the paper's argument:** read [argument-architecture.md](references/argument-architecture.md).
+- **Strengthen a title, abstract, introduction, Methods, Findings, Discussion, table, or figure:** read [section-communication.md](references/section-communication.md) with the relevant evidence and argument reference.
 - **Develop Findings into Discussion:** read [findings-to-discussion.md](references/findings-to-discussion.md).
 - **Engage theory:** read [theory-engagement.md](references/theory-engagement.md).
 - **Calibrate claims to qualitative evidence:** read [qualitative-evidence-boundaries.md](references/qualitative-evidence-boundaries.md).
@@ -42,15 +45,15 @@ Use the minimum relevant mode and read its reference:
 - **Check promises, bilingual consistency, or AI-use disclosure:** read [submission-integrity.md](references/submission-integrity.md).
 - **Integrate supervisor, reviewer, or examination feedback:** read [revision-dossier-workflow.md](references/revision-dossier-workflow.md).
 
-For whole-paper work, load the contribution, literature, evidence, argument, theory, voice, writing-constraint, layered-review, and venue references. Load drafting, submission, and revision-dossier guidance only when the requested task reaches those stages. Use the copy-ready worksheets in `assets/` when the task benefits from explicit tracking.
+For whole-paper work, load the contribution, literature, evidence, argument, section-communication, theory, voice, writing-constraint, layered-review, and venue references. Load drafting, submission, and revision-dossier guidance only when the requested task reaches those stages. Use the copy-ready worksheets in `assets/` when the task benefits from explicit tracking.
 
 ## Diagnose from foundation to sentence
 
 Enter at the level requested by the user, then inspect enough context to determine whether a higher-level problem controls the result:
 
 1. **Research foundation:** problem, RQ, design, evidence, theory, ethics, and contribution.
-2. **Paper architecture:** cumulative argument, section functions, Findings sequence, and promise delivery.
-3. **Paragraph reasoning:** paragraph job, claim-evidence relation, interpretive step, and conceptual consistency.
+2. **Paper architecture:** cumulative argument, target-reader question sequence, section functions, Findings sequence, and promise delivery.
+3. **Paragraph reasoning:** paragraph job, point, evidence, explanation, link, and conceptual consistency.
 4. **Sentence and voice:** semantic precision, claim strength, cadence, terminology, and citation integration.
 
 Resolve controlling higher-level problems before investing in lower-level polish. Explain any level switch so the researcher can evaluate the diagnosis.
@@ -74,7 +77,8 @@ Keep conceptual, structural, evidentiary, and sentence-level work separable unle
 3. **Evidence:** test each claim against supporting material, variation, and counterevidence.
 4. **Contribution:** state the specific knowledge gain and its HCI relevance.
 5. **Prose:** make paragraphs direct, coherent, and economical.
-6. **Venue:** check the live call, template, policies, and review criteria.
+6. **Communication:** check that headings reveal purpose or a supported claim, transitions preserve the reasoning chain, and necessary repetition helps the target reader.
+7. **Venue:** check the live call, template, policies, and review criteria.
 
 When revising user text, preserve deliberate terminology and the author's analytical voice. Explain substantive conceptual changes. Supply clean manuscript-ready English when requested, with a concise rationale or change log if useful.
 
@@ -141,11 +145,14 @@ Confirm that:
 
 - the RQ, data, analysis, Findings, Discussion, and contribution describe the same study;
 - the novelty claim identifies a meaningful knowledge gain;
+- the literature gap rests on a repeated explanatory failure across sources, or is labelled as a provisional single-source lead;
 - each Findings section makes an analytic claim beyond a topic label;
 - the Discussion changes the reader's understanding of prior work or theory;
 - every major implication traces to a finding;
 - limitations define interpretive boundaries without weakening supported claims;
 - title, abstract, introduction, contribution statement, and conclusion share one paper story;
+- section headings and paragraph openings make the reader's question and the local argumentative job visible;
+- each major reader question receives an explicit answer, and the manuscript removes details that do not advance those answers;
 - all citations, quotations, numbers, venue requirements, and policy statements are verifiable;
 - the prose still sounds like the researcher and addresses the intended reader;
 - every promised contribution and question receives visible delivery;

@@ -2,9 +2,9 @@
 
 Use one row per central Findings claim.
 
-| Finding claim | Data and cases | Variation or negative case | Underlying process or tension | Prior scholarly expectation | Relationship to prior work | Conceptual consequence | HCI implication | Transfer boundary |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
+| Reader question | Finding claim | Data and cases | Variation or negative case | Underlying process or tension | Prior scholarly expectation | Relationship to prior work | Conceptual consequence | HCI implication | Transfer boundary |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |  |
 
 Allowed relationship labels: `confirms`, `differentiates`, `connects`, `refines`, `extends`, `qualifies`, `challenges`.
 
@@ -19,3 +19,4 @@ Allowed relationship labels: `confirms`, `differentiates`, `connects`, `refines`
 - The implication applies where:
 - The strongest rival explanation is:
 - Evidence that would change this interpretation:
+- Proposed question-led or claim-led heading:

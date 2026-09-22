@@ -15,6 +15,8 @@ Distinguish these states in notes and prose:
 
 Do not silently move from one state to another. Use transitions that identify the analytic step.
 
+Also test whether the material can support the type and time scale of the claim. Interviews about remembered practice, observations of situated action, platform records, organisational documents, and public-facing promotional material expose different phenomena. State the claim each material can support and stop at that boundary.
+
 ## Calibrate verbs
 
 - Participant reports: `described`, `reported`, `recalled`, `perceived`, `interpreted`.
@@ -64,3 +66,10 @@ Describe transfer through relevant features of the setting, actor relations, tec
 ## Integrity check
 
 Before delivery, verify that every quotation, count, participant descriptor, procedure, and ethics statement is present in the supplied source material. Mark all unresolved items for researcher verification.
+
+For each central claim, ask:
+
+- Did the study observe the mechanism or infer it from outcomes?
+- Does the evidence capture a snapshot or a process over time?
+- Does the claim describe reported experience, documented practice, organisational intent, or public presentation?
+- Which missing material would change the interpretation?

@@ -7,6 +7,8 @@ The skill helps researchers connect qualitative evidence to an explicit argument
 ## What it covers
 
 - HCI contribution framing and novelty calibration
+- Critical literature review through explanation-failure diagnosis and cross-source gap testing
+- Audience-question planning, reverse outlining, and section-purpose design
 - Argument architecture across a whole paper
 - Findings-to-Discussion transformation
 - Theory engagement and conceptual change
@@ -19,6 +21,7 @@ The skill helps researchers connect qualitative evidence to an explicit argument
 - Author voice, target-reader, and bilingual-writing support
 - Revision dossiers and reviewer-response workflows
 - Submission integrity and AI-use disclosure checks
+- Research communication guidance for titles, abstracts, introductions, Methods, Findings, Discussion, tables, and figures
 
 ## Install
 
@@ -55,6 +58,11 @@ Keep participant reports, analytic interpretation, and theoretical claims distin
 ```
 
 ```text
+Use $hci-qualitative-writing to build a critical literature matrix from these papers.
+Test whether the proposed gap recurs across sources, survives the strongest counterargument, and fits my data.
+```
+
+```text
 Use $hci-qualitative-writing in reviewer mode at intensity 4.
 Audit contribution clarity, qualitative evidence boundaries, and venue fit for CSCW.
 ```
@@ -63,6 +71,7 @@ You can also ask Codex to use a specific workflow:
 
 - `Frame the contribution and produce a one-sentence knowledge gain.`
 - `Build a claim-evidence-contribution ledger for the manuscript.`
+- `Create a focus-question tree, then reverse-outline the current draft against it.`
 - `Run a promise-delivery audit from the abstract through the conclusion.`
 - `Remove defensive writing while preserving necessary scope conditions.`
 - `Convert these reviewer comments into a traceable revision dossier.`
@@ -102,8 +111,10 @@ Missing facts are marked for verification. The skill does not invent citations, 
 4. Treat frequency, salience, theoretical importance, and deviance as distinct properties.
 5. Place limitations where they change interpretation, transfer, or validity.
 6. Verify live venue policies before submission.
+7. Build literature gaps from repeated explanatory failures and test them against counterarguments and available data.
+8. Organise sections around target-reader questions, supported answers, and visible links between them.
 
-The package includes `scripts/check-writing-constraints.sh` for repeatable checks across Markdown, LaTeX, and text files.
+The package includes `assets/critical-literature-matrix.csv` for source-level diagnosis, `assets/literature-dialogue-map.md` for corpus synthesis, and `assets/audience-question-outline.md` for planning and reverse outlining. It also includes `scripts/check-writing-constraints.sh` for repeatable checks across Markdown, LaTeX, and text files.
 
 ## Attribution and license
 

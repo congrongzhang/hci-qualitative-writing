@@ -20,6 +20,10 @@
 - Assumptions they may contest:
 - Likely misreading:
 - What should be memorable after one reading:
+- Primary question the paper should answer:
+- Judgment or action the paper should support:
+- Evaluation criteria this reader will use:
+- Information needed again at the point of interpretation:
 
 ## Secondary reader
 
@@ -30,7 +34,7 @@
 
 ## Reader-to-text map
 
-| Reader need or risk | Manuscript location | Current handling | Revision needed |
+| Reader question, need, or risk | Manuscript location | Current answer or handling | Revision needed |
 | --- | --- | --- | --- |
 |  |  |  |  |
 

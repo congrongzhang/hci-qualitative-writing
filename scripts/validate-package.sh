@@ -10,6 +10,10 @@ required_files=(
   "LICENSE.md"
   "agents/openai.yaml"
   "references/general-writing-constraints.md"
+  "references/literature-dialogue.md"
+  "references/section-communication.md"
+  "assets/critical-literature-matrix.csv"
+  "assets/audience-question-outline.md"
   "scripts/pending-markers.sh"
   "scripts/check-writing-constraints.sh"
 )

@@ -21,7 +21,19 @@ Copy this workbook into a paper workspace and update it as decisions change.
 
 Status vocabulary: `confirmed fact`, `empirical evidence`, `researcher interpretation`, `working hypothesis`, `recommendation`, `to verify`.
 
-## 2. Paper spine
+## 2. Communication brief
+
+- Target reader:
+- Primary reader question:
+- Main message:
+- Why this reader should care:
+- Judgment or action the paper should enable:
+- Reader evaluation criteria:
+- Headline statement for a cross-domain reader:
+- Details this reader already knows:
+- Details that require explanation or repetition:
+
+## 3. Paper spine
 
 - One-sentence problem:
 - RQ:
@@ -36,7 +48,7 @@ Status vocabulary: `confirmed fact`, `empirical evidence`, `researcher interpret
 - Main boundary condition:
 - If reviewers remember one point:
 
-## 3. Contribution chain
+## 4. Contribution chain
 
 | Element | Statement | Evidence or literature needed | Confidence |
 | --- | --- | --- | --- |
@@ -47,31 +59,33 @@ Status vocabulary: `confirmed fact`, `empirical evidence`, `researcher interpret
 | HCI significance |  |  |  |
 | Scope and transfer conditions |  |  |  |
 
-## 4. Section-function plan
+## 5. Focus-question and section-function plan
 
-| Section | Main job | Claim advanced | Evidence used | Link to paper spine | Word budget |
-| --- | --- | --- | --- | --- | ---: |
-| Abstract |  |  |  |  |  |
-| Introduction |  |  |  |  |  |
-| Related Work 1 |  |  |  |  |  |
-| Related Work 2 |  |  |  |  |  |
-| Methods |  |  |  |  |  |
-| Findings 1 |  |  |  |  |  |
-| Findings 2 |  |  |  |  |  |
-| Findings 3 |  |  |  |  |  |
-| Discussion 1 |  |  |  |  |  |
-| Discussion 2 |  |  |  |  |  |
-| Implications |  |  |  |  |  |
-| Limitations |  |  |  |  |  |
-| Conclusion |  |  |  |  |  |
+| Section | Reader question | Main job and answer | Evidence used | Link to next question | Heading | Word budget |
+| --- | --- | --- | --- | --- | --- | ---: |
+| Abstract |  |  |  |  |  |  |
+| Introduction |  |  |  |  |  |  |
+| Related Work 1 |  |  |  |  |  |  |
+| Related Work 2 |  |  |  |  |  |  |
+| Methods |  |  |  |  |  |  |
+| Findings 1 |  |  |  |  |  |  |
+| Findings 2 |  |  |  |  |  |  |
+| Findings 3 |  |  |  |  |  |  |
+| Discussion 1 |  |  |  |  |  |  |
+| Discussion 2 |  |  |  |  |  |  |
+| Implications |  |  |  |  |  |  |
+| Limitations |  |  |  |  |  |  |
+| Conclusion |  |  |  |  |  |  |
 
-## 5. Open decisions
+Use `assets/audience-question-outline.md` for a deeper question tree or paragraph-level reverse outline.
+
+## 6. Open decisions
 
 | Decision | Options | Evidence needed | Owner | Deadline | Downstream effect |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
 
-## 6. Final alignment check
+## 7. Final alignment check
 
 - [ ] The RQ can be answered by the completed analysis.
 - [ ] Findings state analytic relationships, processes, mechanisms, or tensions.
@@ -83,4 +97,7 @@ Status vocabulary: `confirmed fact`, `empirical evidence`, `researcher interpret
 - [ ] Title, abstract, introduction, and conclusion express the same paper story.
 - [ ] The manuscript delivers its explicit contribution and roadmap promises.
 - [ ] The prose preserves the author's approved voice and supports the target reader.
+- [ ] Each section answers a target-reader question and creates the next necessary reasoning step.
+- [ ] Headings reveal purpose, question, or a supported answer.
+- [ ] Tables and figures state the point they support and receive interpretation in the prose.
 - [ ] All pending AI-draft, verification, evidence, and author-decision markers are resolved.

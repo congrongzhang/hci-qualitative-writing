@@ -7,6 +7,8 @@
 ## 核心能力
 
 - HCI 贡献定位与 novelty 校准
+- 通过“解释失效”诊断和跨文献 Gap ID 聚合完成批判性文献综述
+- 目标读者问题规划、反向大纲与章节功能设计
 - 全文论证架构
 - Findings 到 Discussion 的转换
 - 理论对话与概念推进
@@ -19,6 +21,7 @@
 - 作者声音、目标读者与双语写作支持
 - revision dossier 与审稿回复工作流
 - 投稿完整性与 AI 使用披露检查
+- 针对标题、摘要、引言、Methods、Findings、Discussion、表格与图形的研究沟通检查
 
 ## 安装
 
@@ -55,6 +58,11 @@
 ```
 
 ```text
+使用 $hci-qualitative-writing，根据这些论文建立批判性文献矩阵。
+检查候选 gap 是否跨文献重复出现、能否承受最强反驳，以及我的数据能否回应它。
+```
+
+```text
 使用 $hci-qualitative-writing，以强度 4 进入 reviewer mode。
 检查 CSCW 论文的贡献清晰度、质性证据边界和 venue fit。
 ```
@@ -63,6 +71,7 @@
 
 - `帮我形成一句话的 HCI knowledge gain。`
 - `给整篇论文建立 claim-evidence-contribution ledger。`
+- `建立 focus-question tree，再用它对现有草稿做 reverse outline。`
 - `从摘要到结论执行 promise-delivery audit。`
 - `删除防御性表达，同时保留必要的范围条件。`
 - `把审稿意见整理成可追踪的 revision dossier。`
@@ -92,7 +101,7 @@
 └── LICENSE.md               # 使用许可
 ```
 
-仓库提供 `scripts/check-writing-constraints.sh`，用于重复检查 Markdown、LaTeX 与文本文件。
+仓库提供 `assets/critical-literature-matrix.csv` 用于单篇文献诊断，`assets/literature-dialogue-map.md` 用于跨文献综合，`assets/audience-question-outline.md` 用于规划和反向大纲。`scripts/check-writing-constraints.sh` 用于重复检查 Markdown、LaTeX 与文本文件。
 
 ## 来源与许可
 

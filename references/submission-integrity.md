@@ -17,7 +17,11 @@ Run this mode on a complete draft or clearly defined complete section. Suspend q
    - `excluded` because the draft segment remains unfinished.
 5. Present the mismatch. Leave the choice between fulfilling, narrowing, moving, or removing the promise to the researcher.
 
+Include explicit questions in headings and strong question-answer expectations created by the section order. A heading that announces an explanation, comparison, or implication creates a delivery promise even when it lacks a question mark.
+
 Do not rewrite the paper or evaluate contribution quality during this check. Use [promise-delivery-audit.md](../assets/promise-delivery-audit.md).
+
+After the correspondence check, run a separate communication pass when requested. Test whether the promise sequence matches the target reader's questions and whether repeated background, unexplained terminology, or disconnected detail obscures delivery.
 
 ## Bilingual and cross-script writing
 
